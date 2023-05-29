@@ -1,0 +1,26 @@
+body{
+  margin: 0;
+  padding: 0;
+  background-color: rgb(113, 106, 106);
+  }
+  .navbar {
+      color: whitesmoke;
+  }
+
+  .navbar i{
+    font-size: 30px;
+  }
+
+  a {
+      text-decoration: none;
+      color: white;
+  }
+
+  .container h1{
+    color: beige;
+    padding-bottom: 20px;
+    padding-top: 20px;
+    font-size: 60px;
+  }
+  
+  
